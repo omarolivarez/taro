@@ -10,3 +10,6 @@ taro uses a linear regression to monitor daily entries in my consumption and exe
 Run the following command in /taro/: python3 app.py
 
 ## Feedback welcome
+
+## Next steps:
+Form fields to add: date, fat, carbs, proteins, calories, water oz, steps walked, gym-weightlifting?, gym-swimming?, crossfit?
